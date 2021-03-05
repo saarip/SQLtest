@@ -1,1 +1,1 @@
-SELECT * FROM Asiakas;
+SELECT asiakas_id FROM Asiakas;
