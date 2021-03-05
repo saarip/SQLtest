@@ -1,2 +1,2 @@
-# slqtest
+# SQLtest
 Jotain.
